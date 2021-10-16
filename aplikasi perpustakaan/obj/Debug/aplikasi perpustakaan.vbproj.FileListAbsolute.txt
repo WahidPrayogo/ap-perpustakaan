@@ -1,0 +1,136 @@
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.exe
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.pdb
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.xml
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\ResolveAssemblyReference.cache
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Anggota.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Buku.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.GantiPassword.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Laporan.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanMaster.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPeminjaman.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPengembalian.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Login.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.MenuUtama.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Resources.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Peminjaman1.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Pengembalian1.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Petugas.resources
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.vbproj.GenerateResource.Cache
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.exe
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.xml
+D:\apliakasi\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.pdb
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.exe
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.xml
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.pdb
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.exe
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.pdb
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.xml
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\ResolveAssemblyReference.cache
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Anggota.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Buku.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.GantiPassword.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Laporan.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanMaster.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPeminjaman.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPengembalian.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Login.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.MenuUtama.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Resources.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Peminjaman1.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Pengembalian1.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Petugas.resources
+E:\example\5 aplikasi perpustakaan\Backup\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.vbproj.GenerateResource.Cache
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.xml
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.pdb
+D:\new\Perpustakaan\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.exe
+D:\new\Perpustakaan\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.pdb
+D:\new\Perpustakaan\aplikasi perpustakaan\bin\Debug\aplikasi perpustakaan.xml
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\ResolveAssemblyReference.cache
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Anggota.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Buku.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Laporan.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanMaster.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPeminjaman.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPengembalian.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Login.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.MenuUtama.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Resources.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Petugas.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.vbproj.GenerateResource.Cache
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.exe
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Peminjaman.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Pengembalian.resources
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.cache
+D:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.compiled
+G:\new\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.exe
+G:\new\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.pdb
+G:\new\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.xml
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\ResolveAssemblyReference.cache
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Anggota.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Buku.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Laporan.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanMaster.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPeminjaman.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPengembalian.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Login.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.MenuUtama.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Resources.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Peminjaman.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Pengembalian.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Petugas.resources
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.vbproj.GenerateResource.Cache
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.cache
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.compiled
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.exe
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.xml
+G:\new\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.pdb
+F:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.exe
+F:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.xml
+F:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.pdb
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.exe
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.xml
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.pdb
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.exe
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.pdb
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.xml
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\ResolveAssemblyReference.cache
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Anggota.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Buku.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Laporan.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanMaster.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPeminjaman.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPengembalian.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Login.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.MenuUtama.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Resources.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Peminjaman.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Pengembalian.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Petugas.resources
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.vbproj.GenerateResource.Cache
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.cache
+H:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.compiled
+G:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.exe
+G:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.xml
+G:\VB.NET\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.pdb
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.exe
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.xml
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\Aplikasi Perpustakaan.pdb
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.exe
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.pdb
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\bin\Debug\Aplikasi Perpustakaan.xml
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\ResolveAssemblyReference.cache
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Anggota.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Buku.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Laporan.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanMaster.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPeminjaman.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.LaporanPengembalian.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Login.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.MenuUtama.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Resources.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Peminjaman.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Pengembalian.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi_perpustakaan.Petugas.resources
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\aplikasi perpustakaan.vbproj.GenerateResource.Cache
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.cache
+E:\ProjectApplication\Perpustakaan\aplikasi perpustakaan\obj\Debug\RdlCompile.compiled
